@@ -22,8 +22,6 @@ __help__ = """
  - /square : square Text
  - /blue : Blues text
 
-** Telegraph **
-- /telegraph <reply to jpg, jpeg, png, gif or mp4>: upload to telegraph.
 
 ** More **
  - /phone <tp no> : Track Phone no
