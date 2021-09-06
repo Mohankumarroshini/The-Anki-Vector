@@ -8,7 +8,7 @@ __help__ = """
 
 * 🟡For Channel Music Play🟡 *
 
-1) Make @Athena_probot admin of your channel 
+1) Make [@Athena_probot](https://t.me/Athenaprobot) admin of your channel 
 2) Send /userbotjoinchannel in linked group
 3) Now send commands in linked group 
 
@@ -50,21 +50,21 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
-3) Add @Athena_probot bot as Channel admin with full perms
+3) Add [@Athena_probot](https://t.me/Athenaprobot) bot as Channel admin with full perms
 4) Add  to the channel as an admin.
 5) Simply send commands in your group.
  
 * ⚫️More tools⚫️ *
 
 • /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-• /userbotjoin: Invite @Athena_probot Userbot to your chat 
+• /userbotjoin: Invite [@Athena_probot](https://t.me/Athenaprobot) Userbot to your chat 
  
 * 🔷ASSISTANT🔷 *
 
-@athena_music
+[@athena_music](https://t.me/athena_music) 
 
-* 🔸Bot🔸 *
+* 🔸BOT🔸 *
 
-@Athena_probot
+[@Athena_probot](https://t.me/Athenaprobot) 
 """
 __mod_name__ = "VC MUSIC"
