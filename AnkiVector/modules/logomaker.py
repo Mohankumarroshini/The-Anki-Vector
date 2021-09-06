@@ -100,11 +100,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')
 
 @register(pattern="^/biglogo ?(.*)")
 async def lego(event):
@@ -137,11 +137,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')
 
 
 @register(pattern="^/wlogo ?(.*)")
@@ -175,11 +175,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="white", stroke_width=0, stroke_fill="white")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot)
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')
 
 @register(pattern="^/daalogo ?(.*)")
 async def logo_gen(event):
@@ -295,11 +295,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="red")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')
   
 
 @register(pattern="^/pandalogo ?(.*)")
@@ -333,11 +333,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')
   
 
 @register(pattern="^/spiderlogo ?(.*)")
@@ -371,15 +371,15 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')  
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')  
   
   
   
-@register(pattern="^/spider_man_logo ?(.*)")
+@register(pattern="^/spidermanlogo ?(.*)")
 async def lego(event):
  quew = event.pattern_match.group(1)
  if event.sender_id == OWNER_ID:
@@ -410,11 +410,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "AnkiVectorLogo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @TheAnkiVectorBot ⚡️")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Athena_probot ⚡️")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From  @AnkiSupport_Official, {e}')  
+   await event.reply(f'Error Go to Help From  @Athena_support, {e}')  
   
 file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
@@ -428,6 +428,6 @@ __help__ = """
  ❍ /redlogo text :
  ❍ /pandalogo text
  ❍ /spiderlogo text
- ❍ /spider_man_logo text
+ ❍ /spidermanlogo text
  """
 __mod_name__ = "Logo Maker"
