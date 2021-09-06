@@ -72,15 +72,15 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(text="📌ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/Athena_support"),
     ],
     [
-        InlineKeyboardButton(text="📜 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="MASTER", url="https://t.me/My_Dear_lightbright"),
         InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴀɴᴋɪ ᴠᴇᴄᴛᴏʀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Athena_probot?startgroup=true"
+            text="➕ ᴀᴅᴅ ATHENA ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Athena_probot?startgroup=true"
         ),
     ],
 ]
