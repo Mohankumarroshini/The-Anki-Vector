@@ -75,7 +75,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="MASTER", url="https://t.me/My_Dear_lightbright"),
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", callback_data="help_back"),
+        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
     ],
     [
         InlineKeyboardButton(
