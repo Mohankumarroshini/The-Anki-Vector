@@ -59,7 +59,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 • /admincache: Updates admin info of your group. Try if bot isn't recognize admin
 • /userbotjoin: Invite @Athena_probot Userbot to your chat 
  
-* 🔷Assisten🔷 *
+* 🔷ASSISTANT🔷 *
 
 @athena_music
 
@@ -67,4 +67,4 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 
 @Athena_probot
 """
-__mod_name__ = "Music Play"
+__mod_name__ = "VC MUSIC"
