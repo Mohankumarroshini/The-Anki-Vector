@@ -7,7 +7,7 @@ import uuid
 from io import BytesIO
 
 import AnkiVector.modules.sql.feds_sql as sql
-from MashaRoBot import (
+from AnkiVector import (
     EVENT_LOGS,
     LOGGER,
     SUPPORT_CHAT,
