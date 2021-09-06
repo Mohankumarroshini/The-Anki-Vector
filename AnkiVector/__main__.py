@@ -77,14 +77,9 @@ buttons = [
         InlineKeyboardButton(text="MASTER", url="https://t.me/My_Dear_lightbright"),
         InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
     ],
-    [
-        InlineKeyboardButton(ext="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/Athena_support)"
-
-
-
-
-        InlineKeyboardButton(text="𝖴𝖯𝖣𝖠𝖳𝖤𝖲", url=https://t.me/Athena_updates"),
-
+    [ 
+        InlineKeyboardButton(text="𝖴𝖯𝖣𝖠𝖳𝖤𝖲", url="https://t.me/Athena_updates"), 
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Athena_support") 
     ],
 ]
 
