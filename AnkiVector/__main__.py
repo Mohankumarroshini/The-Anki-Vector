@@ -71,14 +71,14 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴀᴛʜᴇɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Athena_probot?startgroup=true"),
+        InlineKeyboardButton(text="➕ ᴀᴅᴅ Aᴛʜᴇɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Athena_probot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/My_Dear_lightbright"),
         InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
     ],
     [ 
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/Athena_updates"), 
+        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url="https://t.me/Athena_updates"), 
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Athena_support") 
     ],
 ]
