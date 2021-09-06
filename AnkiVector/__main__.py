@@ -78,13 +78,13 @@ buttons = [
         InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
     ],
     [
-        InlineKeyboardButton(
-(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/Athena_support)"
+        InlineKeyboardButton(ext="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/Athena_support)"
+
 
 
 
         InlineKeyboardButton(text="𝖴𝖯𝖣𝖠𝖳𝖤𝖲", url=https://t.me/Athena_updates"),
-        
+
     ],
 ]
 
