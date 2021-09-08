@@ -1,8 +1,7 @@
 import threading
 
-from sqlalchemy import Boolean, Column, Integer, UnicodeText
-
 from AnkiVector.modules.sql import BASE, SESSION
+from sqlalchemy import Boolean, Column, Integer, UnicodeText
 
 
 class AFK(BASE):
