@@ -17,7 +17,7 @@ from telegram.utils.helpers import escape_markdown, mention_html
 
 from AnkiVector import DRAGONS, LOGGER, dispatcher
 from AnkiVector.modules.connection import connected
-from .modules.disable import DisableAbleCommandHandler
+from AnkiVector.modules.disable import DisableAbleCommandHandler
 from AnkiVector.modules.helper_funcs.alternate import send_message, typing_action
 from AnkiVector.modules.helper_funcs.chat_status import user_admin
 from AnkiVector.modules.helper_funcs.extraction import extract_text
