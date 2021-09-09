@@ -389,6 +389,6 @@ __help__ = """
  ❍ /redlogo text :
  ❍ /pandalogo text
  ❍ /spiderlogo text
- ❍ /spider_man_logo text
+
  """
 __mod_name__ = "LOGO"
