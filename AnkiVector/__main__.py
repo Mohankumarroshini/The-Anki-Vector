@@ -63,7 +63,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 [ATHENA](t.me/Athena_probot) ❣️
+𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 [EAGLE PROBOT](t.me/Eagle_probot) ❣️
 𝙄'𝙢 𝙖 𝙋𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙧 𝙗𝙤𝙩 𝙒𝙞𝙩𝙝 𝘾𝙤𝙤𝙡 𝙈𝙤𝙙𝙪𝙡𝙚𝙨. 𝙈𝙖𝙙𝙚 𝙗𝙮 [This person](https://t.me/My_Dear_lightbright)
 𝙃𝙞𝙩 /help 𝙩𝙤 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🕹
  
@@ -71,11 +71,11 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="➕ ᴀᴅᴅ Aᴛʜᴇɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Athena_probot?startgroup=true"),
+        InlineKeyboardButton(text="➕ ᴀᴅᴅ Aᴛʜᴇɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/eagle_probot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/My_Dear_lightbright"),
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/Athena_probot?start=help"),
+        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/eagle_probot?start=help"),
     ],
     [ 
         InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url="https://t.me/Athena_updates"), 
@@ -84,10 +84,10 @@ buttons = [
 ]
 
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/f4836d8f0204e7e6f431d.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/6b6a10ff64cd1c16d30ee.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/f4836d8f0204e7e6f431d.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/12e6ecd6b38d855aec59a.jpg)
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
