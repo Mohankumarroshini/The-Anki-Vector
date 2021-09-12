@@ -18,7 +18,7 @@ from pyrogram.types import (
 
 # By @TroJanzHEX
 
-from AnkiVector.Modules.ImageEditor.edit_1 import (  # pylint:disable=import-error
+from AnkiVector.Module.ImageEditor.edit_1 import (  # pylint:disable=import-error
 
     black_white,
 
@@ -34,7 +34,7 @@ from AnkiVector.Modules.ImageEditor.edit_1 import (  # pylint:disable=import-err
 
 )
 
-from AnkiVector.Modules.ImageEditor.edit_2 import (  # pylint:disable=import-error
+from AnkiVector.Module.ImageEditor.edit_2 import (  # pylint:disable=import-error
 
     cartoon,
 
@@ -54,7 +54,7 @@ from AnkiVector.Modules.ImageEditor.edit_2 import (  # pylint:disable=import-err
 
 )
 
-from AnkiVector.Modules.ImageEditor.edit_3 import (  # pylint:disable=import-error
+from AnkiVector.Module.ImageEditor.edit_3 import (  # pylint:disable=import-error
 
     black_border,
 
@@ -66,7 +66,7 @@ from AnkiVector.Modules.ImageEditor.edit_3 import (  # pylint:disable=import-err
 
 )
 
-from AnkiVeckor.Modules.ImageEditor.edit_4 import (  # pylint:disable=import-error
+from AnkiVeckor.Module.ImageEditor.edit_4 import (  # pylint:disable=import-error
 
     inverted,
 
@@ -86,7 +86,7 @@ from AnkiVeckor.Modules.ImageEditor.edit_4 import (  # pylint:disable=import-err
 
 )
 
-from AnkiVector.Modules.ImageEditor.edit_5 import (  # pylint:disable=import-error
+from AnkiVector.Module.ImageEditor.edit_5 import (  # pylint:disable=import-error
 
     normalglitch_1,
 
